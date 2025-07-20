@@ -20,7 +20,7 @@ The fan blows air. The vanes change the direction of the airflow.
 
 ## Folder Structure
 
-- `images/` – Cad photos
+- `photos/` – Cad photos
 - `3d_models/` – STL files for vanes or frame (optional)
 
 ## Author
